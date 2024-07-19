@@ -2,7 +2,8 @@
 	<img src="logo.png" width="376" height="128" alt="Winlator Logo" />  
 </p>
 
-# WinlatorMaliBased On Official Winlator 7.1RD
+# WinlatorMali
+Based On Official Winlator 7.1RD
 
 Winlator is an Android application that lets you to run Windows (x86_64) applications with Wine and Box86/Box64.
 
@@ -23,6 +24,7 @@ Screenshots :
 
 [![Play on Youtube](https://img.youtube.com/vi/8PKhmT7B3Xo/1.jpg)](https://www.youtube.com/watch?v=8PKhmT7B3Xo)
 
+https://youtu.be/VzPwoRtOClg?si=9ATJnwmnyVdfe-7X
 
 ----
 

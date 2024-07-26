@@ -49,9 +49,9 @@ Note : My Version Of Winlator Is Only For Virgl ( Mediatek, Exynos , Unisoc ) De
 
 # Useful Tips
 
--In Start Menu You Can Find Game Presets Just Select The Game You Want To And Click On The Bat File And Till Installation To Complete Now You Can Open The Game And Play
+- In Start Menu You Can Find Game Presets Just Select The Game You Want To And Click On The Bat File And Till Installation To Complete Now You Can Open The Game And Play
 
--You Can Find And Install Different Mesa Virgl Versions And WineD3D's From Start Menu 
+- You Can Find And Install Different Mesa Virgl Versions And WineD3D's From Start Menu 
 
 - If you are experiencing performance issues, try changing the Box86/Box64 preset in Container Settings -> !
 Advanced Tab.

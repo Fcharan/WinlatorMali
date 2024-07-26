@@ -33,7 +33,7 @@ Screenshots :
 
 # Installation
 
-1. Download and install the APK 
+1. Download and install the APK From https://github.com/Fcharan/WinlatorMali/releases 
 2. Launch the app and wait for the installation process to finish
 
 ----

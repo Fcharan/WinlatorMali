@@ -8,7 +8,7 @@
 
  Winlator By Bruno 🫡
 
- Modded By Me 
+ Modded By Me. Yt : https://youtube.com/@emuone24?si=PJFs4q_1lu0tv3EJ
 
 Based On Official Winlator 7.1RD
 

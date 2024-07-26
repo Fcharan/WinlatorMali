@@ -8,8 +8,11 @@ Based On Official Winlator 7.1RD
 Winlator is an Android application that lets you to run Windows (x86_64) applications with Wine and Box86/Box64.
 
 Note : My Version Of Winlator Is Only For Virgl ( Mediatek, Exynos , Unisoc ) Devices Turnip And Dxvk Is Removed In This Version
+
 ![1000055540](https://github.com/user-attachments/assets/2ed91684-2cab-4a97-ac40-64c915f4134f)
+
 ![1000055539](https://github.com/user-attachments/assets/c1d8534a-786b-489c-ab5a-c5500e8d1599)
+
 ![1000055538](https://github.com/user-attachments/assets/fd52b12c-d161-4202-87c1-97e534abec06)
 
 

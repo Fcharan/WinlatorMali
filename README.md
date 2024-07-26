@@ -4,9 +4,9 @@
 
 # WinlatorMali
 
- Box64 And X86 By Ptitseb 🫡
+ Box64 And X86 By Ptitseb 🫡. Yt : https://youtube.com/@ptitseb123?si=S6wZzpvFU3Sxhwk0
 
- Winlator By Bruno 🫡
+ Winlator By Bruno 🫡. Yt : https://youtube.com/@brunodev85?si=sAAl8uRb6UDoauC0
 
  Modded By Me. Yt : https://youtube.com/@emuone24?si=PJFs4q_1lu0tv3EJ
 

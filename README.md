@@ -4,11 +4,11 @@
 
 # WinlatorMali
 
-# Box64 And X86 By Ptitseb 🫡
+ Box64 And X86 By Ptitseb 🫡
 
-# Winlator By Bruno 🫡
+ Winlator By Bruno 🫡
 
-# Modded By Me 
+ Modded By Me 
 
 Based On Official Winlator 7.1RD
 

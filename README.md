@@ -4,7 +4,7 @@
 
 # WinlatorMali
 
-# Box64 And X86 By Ptseb 🫡
+# Box64 And X86 By Ptitseb 🫡
 
 # Winlator By Bruno 🫡
 

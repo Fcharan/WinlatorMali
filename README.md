@@ -3,6 +3,13 @@
 </p>
 
 # WinlatorMali
+
+# Box64 And X86 By Ptseb 🫡
+
+# Winlator By Bruno 🫡
+
+# Modded By Me 
+
 Based On Official Winlator 7.1RD
 
 Winlator is an Android application that lets you to run Windows (x86_64) applications with Wine and Box86/Box64.

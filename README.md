@@ -10,6 +10,8 @@
 
  Modded By Me. Yt : https://youtube.com/@emuone24?si=PJFs4q_1lu0tv3EJ
 
+Telegram : https://t.me/exageargames24
+
 Based On Official Winlator 7.1RD
 
 Winlator is an Android application that lets you to run Windows (x86_64) applications with Wine and Box86/Box64.

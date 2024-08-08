@@ -28,6 +28,9 @@ Note : My Version Of Winlator Is Only For Virgl ( Mediatek, Exynos , Unisoc ) De
 
 # Game Screenshots
 ![1000071745](https://github.com/user-attachments/assets/20fb3459-b24d-45f6-a135-910e46838e63)
+![1000200380](https://github.com/user-attachments/assets/afff5c80-3386-45cc-988c-0aa19034e044)
+![1000200379](https://github.com/user-attachments/assets/c9e2474b-121f-4195-a5c8-cba4d489dfb6)
+
 
 
 # In App Screenshots

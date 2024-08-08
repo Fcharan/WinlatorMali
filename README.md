@@ -53,7 +53,7 @@ Note : My Version Of Winlator Is Only For Virgl ( Mediatek, Exynos , Unisoc ) De
 
 [![Play on Youtube](https://github.com/user-attachments/assets/8c563b92-a74f-4dce-aa54-4482b59e9510)](https://youtu.be/WpWQkjfoDQc?si=a6S4BRbJXrAA5fFJ)
 
-[![Play on Youtube](https://github.com/user-attachments/assets/34d1bf88-e745-43c9-8ede-c93bae7826c3)](https://youtu.be/dCD9fAdRc2w?si=8IYzIOvWdjLUOFFF)
+[![Play on Youtube](https://github.com/user-attachments/assets/f72b9c97-99cd-4656-8afb-cfeafdcbb3b1)](https://youtu.be/MiSgRgoDPTc?si=2rBu_FkLVcou-HBU)
 
 ----
 

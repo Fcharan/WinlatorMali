@@ -2,23 +2,22 @@
 	<img src="logo.png" width="376" height="128" alt="Winlator Logo" />  
 </p>
 
-# Winlator
+# WinlatorMali
 
 Winlator is an Android application that lets you to run Windows (x86_64) applications with Wine and Box86/Box64.
 
+Winlator By [BrunoSX](https://youtube.com/@brunodev85?si=RU9xw_ES_AEkE-Om)
+ Box64,86 By [PtitSeb](https://youtube.com/@ptitseb123?si=P8xGe23ngzEXA0X1)
+ Modded By [Me](https://youtube.com/@emuone24?si=je0MMb68WyyJdnSa)
+
+# Warning ⚠️ 
+
+Turnip,DXVK And Other Things That Are Not Related To Non Snapdragon Devices Are Removed In This Fork
+
 # Installation
 
-1. Download and install the APK (Winlator_8.0.apk) from [GitHub Releases](https://github.com/brunodev85/winlator/releases)
+1. Download and install the APK from [GitHub Releases](https://github.com/Fcharan/WinlatorMali/releases)
 2. Launch the app and wait for the installation process to finish
-
-----
-
-[![Play on Youtube](https://img.youtube.com/vi/ETYDgKz4jBQ/3.jpg)](https://www.youtube.com/watch?v=ETYDgKz4jBQ)
-[![Play on Youtube](https://img.youtube.com/vi/9E4wnKf2OsI/2.jpg)](https://www.youtube.com/watch?v=9E4wnKf2OsI)
-[![Play on Youtube](https://img.youtube.com/vi/czEn4uT3Ja8/2.jpg)](https://www.youtube.com/watch?v=czEn4uT3Ja8)
-[![Play on Youtube](https://img.youtube.com/vi/eD36nxfT_Z0/2.jpg)](https://www.youtube.com/watch?v=eD36nxfT_Z0)
-
-----
 
 # Useful Tips
 
@@ -28,10 +27,6 @@ Winlator is an Android application that lets you to run Windows (x86_64) applica
 - Try running the games using the shortcut on the Winlator home screen, there you can define individual settings for each game.
 - To speed up the installers, try changing the Box64 preset to `Intermediate` in Container Settings -> Advanced Tab.
 - To improve stability in games that uses Unity Engine, try changing the Box64 preset to `Stability` or in the shortcut settings add the exec argument `-force-gfx-direct`.
-
-# Information
-
-This project has been in constant development since version 1.0, the current app source code is up to version 7.1, I do not update this repository frequently precisely to avoid unofficial releases before the official releases of Winlator.
 
 # Credits and Third-party apps
 - Ubuntu RootFs ([Focal Fossa](https://releases.ubuntu.com/focal))

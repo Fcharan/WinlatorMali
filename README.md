@@ -12,11 +12,13 @@ Winlator By [BrunoSX](https://youtube.com/@brunodev85?si=RU9xw_ES_AEkE-Om)
 
  Modded By [Me](https://youtube.com/@emuone24?si=je0MMb68WyyJdnSa)
 
-Thanks To Ajay And Frost And More For Help
+Thanks To Ajay And Frost And More For Help.
 
 # Warning ⚠️ 
 
-Turnip,DXVK And Other Things That Are Not Related To Non Snapdragon Devices Are Removed In This Fork
+Turnip,DXVK And Other Things That Are Not Related To Non Snapdragon Devices Are Removed In This Fork.
+
+Remember Only Games With Directx9 And Below Support Have Chance Of Running. Directx 10,11,12 Have No Chance Of Running.
 
 # Installation
 

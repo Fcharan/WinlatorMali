@@ -12,6 +12,8 @@ Winlator By [BrunoSX](https://youtube.com/@brunodev85?si=RU9xw_ES_AEkE-Om)
 
  Modded By [Me](https://youtube.com/@emuone24?si=je0MMb68WyyJdnSa)
 
+ Join Our Telegram Channel [Click Here](https://t.me/exageargames24)
+
 Thanks To Ajay And Frost And More For Help.
 
 # Warning ⚠️ 

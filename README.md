@@ -20,6 +20,10 @@ Turnip,DXVK And Other Things That Are Not Related To Non Snapdragon Devices Are 
 
 Remember Only Games With Directx9 And Below Support Have Chance Of Running. Directx 10,11,12 Have No Chance Of Running.
 
+Remember VirGL Is Universal This Means No Matter What Is Your Chipset It Is Going To Run.
+
+Remember Not Every Game You Try To Run Is Going Work.
+
 # Installation
 
 1. Download and install the APK from [GitHub Releases](https://github.com/Fcharan/WinlatorMali/releases)
@@ -28,6 +32,7 @@ Remember Only Games With Directx9 And Below Support Have Chance Of Running. Dire
 # Useful Tips
 
 - Install Recommended Files From Start Menu → INSTALL → Install Recommended Files.bat.
+- Check Game Presets From Start Menu.
 - You May Have Black Screen On D3D Test This Is Not Going To Effect Your Gave Ignore It.
 - By Disabling Experimental Wow64 From Container Settings Some Games May Start Working.
 - For applications that use .NET Framework, try installing `Wine Mono` found in Start Menu -> System Tools.

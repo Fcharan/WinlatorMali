@@ -12,6 +12,8 @@ Winlator By [BrunoSX](https://youtube.com/@brunodev85?si=RU9xw_ES_AEkE-Om)
 
  Modded By [Me](https://youtube.com/@emuone24?si=je0MMb68WyyJdnSa)
 
+Thanks To Ajay And Frost And More For Help
+
 # Warning ⚠️ 
 
 Turnip,DXVK And Other Things That Are Not Related To Non Snapdragon Devices Are Removed In This Fork
@@ -23,7 +25,9 @@ Turnip,DXVK And Other Things That Are Not Related To Non Snapdragon Devices Are 
 
 # Useful Tips
 
-- If you are experiencing performance issues, try changing the Box64 preset to `Performance` in Container Settings -> Advanced Tab.
+- Install Recommended Files From Start Menu → INSTALL → Install Recommended Files.bat.
+- You May Have Black Screen On D3D Test This Is Not Going To Effect Your Gave Ignore It.
+- By Disabling Experimental Wow64 From Container Settings Some Games May Start Working.
 - For applications that use .NET Framework, try installing `Wine Mono` found in Start Menu -> System Tools.
 - If some older games don't open, try adding the environment variable `MESA_EXTENSION_MAX_YEAR=2003` in Container Settings -> Environment Variables.
 - Try running the games using the shortcut on the Winlator home screen, there you can define individual settings for each game.

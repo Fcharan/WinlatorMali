@@ -10,7 +10,7 @@ Winlator By [BrunoSX](https://youtube.com/@brunodev85?si=RU9xw_ES_AEkE-Om)
 
  Box64,86 By [PtitSeb](https://youtube.com/@ptitseb123?si=P8xGe23ngzEXA0X1)
 
- Modded By Me
+ Modded By Fcharan
 
  Subscribe My YouTube Channel [Click Here](https://youtube.com/@emuone24?si=je0MMb68WyyJdnSa)
 
@@ -24,7 +24,7 @@ Turnip,DXVK And Other Things That Are Not Related To Non Snapdragon Devices Are 
 
 Remember Only Games With Directx9 And Below Support Have Chance Of Running. Directx 10,11,12 Have No Chance Of Running.
 
-Remember VirGL Is Universal This Means No Matter What Is Your Chipset It Is Going To Run.
+Remember VirGL Is Universal This Means No Matter What Is Your Chipset Is (Unisoc,Mediatek,Exynos,Tensor) It Is Going To Run.
 
 Remember Not Every Game You Try To Run Is Going Work.
 
@@ -36,6 +36,9 @@ Remember Not Every Game You Try To Run Is Going Work.
 # Useful Tips
 
 - Install Recommended Files From Start Menu → INSTALL → Install Recommended Files.bat.
+- If You Getting Blackscreen With Just Sound In Games
+  Try Switching OffScreen Rendering Mode To Backbuffer
+  From Container Settings.
 - Check Game Presets From Start Menu.
 - You May Have Black Screen On D3D Test This Is Not Going To Effect Your Gave Ignore It.
 - By Disabling Experimental Wow64 From Container Settings Some Games May Start Working.

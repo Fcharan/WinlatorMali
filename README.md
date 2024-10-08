@@ -10,7 +10,9 @@ Winlator By [BrunoSX](https://youtube.com/@brunodev85?si=RU9xw_ES_AEkE-Om)
 
  Box64,86 By [PtitSeb](https://youtube.com/@ptitseb123?si=P8xGe23ngzEXA0X1)
 
- Modded By [Me](https://youtube.com/@emuone24?si=je0MMb68WyyJdnSa)
+ Modded By Me
+
+ Subscribe My YouTube Channel [Click Here](https://youtube.com/@emuone24?si=je0MMb68WyyJdnSa)
 
  Join Our Telegram Channel [Click Here](https://t.me/exageargames24)
 

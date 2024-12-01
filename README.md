@@ -4,7 +4,7 @@
 
 # WinlatorMali
 <p align="left">
-  <img src="https://img.shields.io/github/downloads/Fcharan/WinlatorMali/total" alt="Total Downloads" width="140">
+  <img src="https://img.shields.io/github/downloads/Fcharan/WinlatorMali/total" alt="Total Downloads" width="150">
 </p>
 
 Winlator is an Android application that lets you to run Windows (x86_64) applications with Wine and Box86/Box64.
